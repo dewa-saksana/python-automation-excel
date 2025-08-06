@@ -1,7 +1,7 @@
 # clean_excel.py
 import openpyxl
 
-wb = openpyxel.load_workbook(data.xlsx)
+wb = openpyxl.load_workbook(data.xlsx)
 ws = nwb.active
 
 # Delete empty line
